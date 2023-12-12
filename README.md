@@ -1,7 +1,7 @@
 # PHP - BLOG
 This is a simple blog application built using PHP and MySQL. It allows users to create, edit, and delete blog posts. The application is designed to be easy to use and can serve as a foundation for further development and customization.
 
-![](assets/images/image.png)
+![](assets/images/image4.png)
 
 # Getting Started
 Follow these steps to get the project up and running on your local machine:
